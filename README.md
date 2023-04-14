@@ -1,4 +1,4 @@
-# gitshock-stake
+# gitshock-stake  (ahmkah dökümanıdır )
 
 ### Winscp gibi bir program ile validator_keys içindeki "deposit_data-XXXX.json" olan dosyayı masa üstüne alın birazdan kullanacağız
 
