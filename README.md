@@ -1,5 +1,22 @@
 # gitshock-stake  (ahmkah dökümanıdır )
 
+Ağı eklemek isterseniz
+
+
+Cartenz  Chain (EVM)
+
+
+https://rpc-phase1.cartenz.works/
+
+
+1881
+
+
+tGTFX
+
+
+https://scan.cartenz.works/
+
 ### Winscp gibi bir program ile validator_keys içindeki "deposit_data-XXXX.json" olan dosyayı masa üstüne alın birazdan kullanacağız
 
 root/testnet-list/staking-cli/validator_keys
